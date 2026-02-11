@@ -33,13 +33,13 @@ yo soy Breyner steven garay leudo, cuento con interés por el área de Ingenier�
 
 - 💻  **Estudiante**
 
-- 📱  Estoy estudiando **Desarrollo de software en pio**
+- 📱  Estoy estudiando **Desarrollo de software en Universidad del Valle**
   
 - 🔭 Laboro en **mi casa**
 
 - 💬 Pregúntame sobre **la vida**
 
-- 📫 Cómo contactarme **tivenchis173@gmail.com**
+- 📫 Cómo contactarme **breynergarayleudo@gmail.com**
 
 <br>
 
